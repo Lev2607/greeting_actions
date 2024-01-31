@@ -21,5 +21,5 @@ jobs:
     - name: Run script
       run: python main.py
       env:
-        first_name: 'Christoph'
-        last_name: 'Raupach'
+        first_name: 'Levent'
+        last_name: 'Ovalioglu'
