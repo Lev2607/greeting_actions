@@ -1,0 +1,12 @@
+name: 'Greeting'
+description: 'Greet someone'
+inputs:
+  first_name:
+    description: 'Who to greet'
+    required: true
+  last_name:
+    description: 'Who to greet'
+    required: true
+runs:
+  using: 'python'
+  main: 'main.py'
